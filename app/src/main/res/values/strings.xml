@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="calculate_label">Caculate</string>
+    <string name="underweight_label">Underweight</string>
+    <string name="normalweight_label">Normal</string>
+    <string name="overweight_label">Overweight</string>
+    <string name="obese_label">Obese</string>
+    <string name="weightformat_label">BMI is %1$f \n\nYou\'re: %1$s</string>
+</resources>

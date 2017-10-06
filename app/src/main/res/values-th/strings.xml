@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height_label">ส่วนสูง (ซม.)</string>
+    <string name="weight_label">น้ำหนัก (กก.)</string>
+    <string name="calculate_label">คำนวณ</string>
+    <string name="underweight_label">น้ำหนักน้อยกว่าปกติ</string>
+    <string name="normalweight_label">น้ำหนักปกติ</string>
+    <string name="overweight_label">น้ำหนักมากกว่าปกติ (ท้วม)</string>
+    <string name="obese_label">น้ำหนักมากกว่าปกติ (อ้วน)</string>
+    <string name="weightformat_label">ค่า BMI ที่ได้คือ %1$f \n\nอยู่ในเกณฑ์: %1$s</string>
+</resources>
